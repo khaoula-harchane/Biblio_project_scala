@@ -33,6 +33,9 @@ renvoie une Option[Livre] qui peut avoir soit une valeur (Some) si le titre du l
 
 ## Fichier de données mis à jour
 
+Une fois le fichier sauvegardé après avoir lancé une opération donnée, les modifications seront visibles sur le fichier biblio.csv dont le path est target/scala-2.13/classes/biblio.csv et non le fichier biblio.csv de ressources.
+<img width="693" alt="image" src="https://github.com/khaoula-harchane/Biblio_project_scala/assets/87319283/6e19fbb1-296b-4fbb-8f3f-746300803efc">
+
 ## Tests Unitaires
 
 
