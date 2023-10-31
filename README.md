@@ -38,6 +38,8 @@ Une fois le fichier sauvegardé après avoir lancé une opération donnée, les 
 
 ## Tests Unitaires
 
+Nous avons réalisé des tests unitaires pour les deux méthodes clés emprunterLivre et rendreLivre tenant co;pte de plusieurs scénarios. Les test sont dans src/test/scala/BiblioTest.scala
+
 
 
 
