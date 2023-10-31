@@ -1,6 +1,6 @@
 # Biblio
 
-Ce projet Scala consiste en la création d'une application de gestion de bibliothèque.
+Ce projet Scala consiste en la création d'une application de gestion de bibliothèque réalisé par Khaoula HARCHANE et Ayoub ACHAHBOUN.
 
 ## Classes
 
